@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "snapthat-103",
+  "private_key_id": "32688af7ce577b6e63c1ac1eee93cc6dbd1666a0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCj4FdzkXs/MedE\nq4uemRH2NaPb+SQsoap/1n8f1idGTW6/aYpXxb4hr4rHu+v1A79Lxaj5UwabrjXQ\nOFN223iQacSLLT7/cISbseZD7+lDyVzWSaZ9FLYulJ+/cqsyV52uBxp4veTVOQkW\nZ9Z95DvTS5XwRbtiKtuOm1CUjsLO4YsRUgNQLqSn9aomthRt4eGfYJxRkRjRHJ/+\n+kQE7jXhtwHY/8VQvBY3RDe+uZf/fywCqTa5t9yu5qmc08T73oj2Zsa+MdyE0ljn\nSSZB+hrEgZEvzKpOSGUQvySQjoCCgxWW6omPXxpTg7QZtfotW4/S51uo1+tMokPa\n7pl4okPDAgMBAAECggEAA15+JC1peuNbmCRTqSUqBQEvYLskGp3ddLtw1Dvl689k\nMjDE2erGZjdcQUtPEO+EJ0Uli2wFMFNyqy4O31xCFOwersCgJrVD/bzr37M5FrfZ\nUTMtkPoFIcOx/+G4RT9SWvADLpyiKWHLo0RR2PMSchCIhWH4BvVozsCnKMDbBOpk\n3SXDHA8BzXiTOPpvmnqMuly1Rf/ySmqK30qLGtNrUf9OeUK2rqkEXN0C8yfXmGbe\nQFmvxYakvRn9Zyty5ZkQNTiFuF6eERDojXWW7obYb1d8GhYObjgbAHybo34F+knb\nMlYiGjL5fNnqsVq2frfmA3HK6ZFLxRaYUrTlAiKJuQKBgQDM6i0KaRYU+zk2wajJ\nslsvpKBl3ZmwZuL9cwllHsp3jyR34FI7FQp8iwAuou6E8/wR5cz4fXvxD8UOPpap\nIbkVdXlaHV40zs5VbyiL7Uu/tJVI02/fN6tVbU2xNF4dHf+v9HWhyIswU6Rr/pHo\n3NoejgKdRvddfz2H5m39nriYiQKBgQDMuw+eOW0cxEtIEIW5UPOFD6m6ml44BC0Q\nwmeYpil3Ys/1eTPrQ9NtusYlLyZDzAichODUoxjqmYb1YQC7qkYXlaNXftJ+3TRt\nrD/DvC21HlCerVX5uBNBmOpPsNDmW4hQg6iFZQ09WQNcVXhKrQsXcqT5ockLNJoa\nZcb06vDO6wKBgQCapMP3DlWG4g1MoJw0E3EzpGcUWUeqVAtMQOu/L5yW3CUmftkw\nE3IFiZVKnNWq6sK58xZcFb9aro8FcACdhYC7jBtYAb/d1JDs8uXDrAK1m5/qBP9x\nkv6virzOVfoMuV4EOVYpEULR5t24Trdo6HuIAZ5BeZQnMGaMUD+D3qvrGQKBgQCI\nptNl6S7LZLpa/6xCZaYlyq6fvynkeeUaqqg7W62R4oKsdpoRDtSxCVn4t9/yoN2e\nm5L2W2bmMFPEtVqn6J+gXmEIpb4ar8uu6KonHBPmMLXfNBOO+y7fOhIr3vmQyMfT\n9g0l/K05pZB4sRP5xEcC/6LefP6UXCgANq72C1twwQKBgGy/MzyC34yeKO93Qn+Q\ntPgWPcdR9kzYX+QDj+U/oEHPzNpv27/g6qNyQ/uDIn0MhcAyazr+hExlQ4r8fMKS\nQXHYMGinTO6HlIDIvjQbdAXTCx8vRYXPJ2IPOUUJsjE+DiTI2f7p59a4kWu+k/cZ\ntpV3ELwhpAxnO3OIrgB+EWRi\n-----END PRIVATE KEY-----\n",
+  "client_email": "owner-95@snapthat-103.iam.gserviceaccount.com",
+  "client_id": "113902360208862021765",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/owner-95%40snapthat-103.iam.gserviceaccount.com"
+}

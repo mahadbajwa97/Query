@@ -1,0 +1,8 @@
+[
+    {
+        "cloth":
+        {
+            "availability": "true", "price": 7480,"sku":"SKU: N000470542103","gender":"Women","source":"https://lawncollection.pk/nishat-linen-41907505-silk-chiffon-slub-lawn-cambric-black-digital-printed-embroidered-3pc.html","title":"Nishat Linen 41907505-Silk Chiffon, Slub Lawn & Cambric Black Digital Printed Embroidered 3PC","stitched":"true","description": "DescriptionBlack digital printed embroidered unstitched three piece dress from Eid ul Azha'19 collection by Nishat Linen.Color: BlackFabric: Slub Lawn, Cambric & Silk ChiffonMeasurements: 8 Mtr- Dyed Slub Lawn Shirt: 3 Mtr- Digital Printed Silk Chiffon Dupatta: 2.5 Mtr- Dyed Cambric Trouser: 2.5 Mtr- Embroidered Front + Border (Patch)*Note: Actual fabric color might differ slightly from the product image.","otherpics":["https://lawncollection.pk/public/images/products//2019/07/nishat-linen-41907505-silk-chiffon-slub-lawn-cambric-black-digital-printed-embroidered-3pc-image1.jpeg","https://lawncollection.pk/public/images/products//2019/07/nishat-linen-41907505-silk-chiffon-slub-lawn-cambric-black-digital-printed-embroidered-3pc-image2.jpeg"]
+        }
+    }
+]
