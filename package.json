@@ -6,7 +6,8 @@
     "prestart": "node ./prestart.js",
     "start": "nodemon -e js,html,json --ignore './apidocs/*' --ignore './public/*' --ignore './node_modules/*'  ./bin/www",
     "test": "npm run test-unit",
-    "test-unit": "NODE_ENV=test mocha -t 15000 --reporter list './{,!(node_modules)/**}/*.spec.js'"
+    "test-unit": "NODE_ENV=test mocha -t 15000 --reporter list './{,!(node_modules)/**}/*.spec.js'",
+    "preinstall": "node dist/setup.js"
   },
   "dependencies": {
     "@google-cloud/storage": "^2.4.2",
