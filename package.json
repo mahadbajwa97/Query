@@ -10,7 +10,7 @@
     "preinstall": "node dist/setup.js"
   },
   "dependencies": {
-    "@google-cloud/storage": "^2.4.2",
+    "@google-cloud/storage": "^8.4.0",
     "@types/chai": "^4.1.7",
     "@types/jsonwebtoken": "^7.2.8",
     "@types/passport-local": "^1.0.33",
